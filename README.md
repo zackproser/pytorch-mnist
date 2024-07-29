@@ -1,6 +1,6 @@
 # Neural Network Digit Recognizer
 
-![MNIST digit recognition](./img/pytorch-mnist-hero.png)
+![MNIST digit recognition](./img/pytorch-mnist-hero.webp)
 
 A Python project that trains a neural network to recognize hand-drawn digits between 0 and 9 using the MNIST dataset, and provides a FastAPI web service for predictions.
 
@@ -8,7 +8,7 @@ A Python project that trains a neural network to recognize hand-drawn digits bet
 
 This project uses PyTorch to create and train a neural network for digit recognition. 
 
-![MNIST digit recognition](./img/pytorch-mnist-hero.png)
+![MNIST digit recognition](./img/pytorch-mnist-neural-network.webp)
 
 The trained model can accurately classify hand-drawn digits from the MNIST dataset. Additionally, it includes a FastAPI web service that allows users to make predictions on uploaded images and view sample test images with predictions.
 
